@@ -1,29 +1,27 @@
 # Hi, I'm Manisha
 
-I'm an aspiring Software Developer with an interest in building practical applications and solving real-world problems through technology.
+I'm an AI & Data Science student and aspiring Software Developer interested in building practical applications and solving real-world problems through technology.
 
-Currently, I'm exploring **full-stack development** and strengthening my skills in **C#, .NET, React, web development, and AI/ML concepts** through hands-on projects.
+Currently, I'm strengthening my skills in full-stack development with C#, .NET, React, and backend concepts while exploring Artificial Intelligence and Machine Learning.
 
-I enjoy understanding how software works behind the scenes and turning ideas into simple, useful, and efficient applications.
+I enjoy learning how applications work, improving my problem-solving skills, and building projects that connect software development with intelligent solutions.
 
-## Currently Learning
+## Currently Exploring
 
-- Full-Stack Web Development
+- Full-Stack Application Development
 - .NET Development with C#
-- React.js and Frontend Technologies
-- Backend Development Concepts
-- Object-Oriented Programming
-- Machine Learning Fundamentals
+- React.js and Frontend Development
+- Backend Development
+- Artificial Intelligence & Machine Learning
+- Data Science
 
-## Interests
+## Focus Areas
 
 - Software Development
-- Full-Stack Development
+- Web Application Development
 - .NET Technologies
-- Artificial Intelligence & Machine Learning
-- Problem Solving
-
-I’m focused on improving through continuous learning, building projects, and exploring different areas of software engineering.
+- AI-based Solutions
+- Continuous Learning
 
 
 ## 🌐 Socials:
