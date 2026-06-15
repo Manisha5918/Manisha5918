@@ -1,5 +1,25 @@
 #  About Me:
-Hi, I'm Manisha <br><br>Aspiring Software Developer passionate about building efficient and user-friendly applications. I working with full-stack development, problem-solving, and exploring new technologies. Currently improving my skills in C#, React, web development, and machine learning through projects and continuous learning.<br><br>Always curious to learn, build, and contribute to impactful solutions <br>
+# Hi, I'm Manisha
+
+I’m an aspiring Software Developer who enjoys building projects, learning new technologies, and improving my problem-solving skills.
+
+Currently, I’m exploring **full-stack development** and strengthening my skills in **C#, React, web development, and AI/ML concepts** through hands-on projects.
+
+I like understanding how things work behind the scenes and turning ideas into simple, useful applications.
+
+##  Currently Learning
+- Building responsive web applications with React
+- Backend development concepts
+- Object-Oriented Programming with C#
+- Fundamentals of Machine Learning
+
+##  Interests
+- Software Development
+- Web Technologies
+- Artificial Intelligence
+- Problem Solving
+
+I’m continuously learning, experimenting, and working on projects to grow as a developer.
 
 
 ## 🌐 Socials:
