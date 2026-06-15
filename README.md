@@ -1,4 +1,4 @@
-#  About Me:
+
 # Hi, I'm Manisha
 
 I’m an aspiring Software Developer who enjoys building projects, learning new technologies, and improving my problem-solving skills.
