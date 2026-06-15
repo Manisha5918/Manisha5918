@@ -6,7 +6,7 @@ Currently, I'm exploring **full-stack development** and strengthening my skills 
 
 I enjoy understanding how software works behind the scenes and turning ideas into simple, useful, and efficient applications.
 
-##Currently Learning
+## Currently Learning
 
 - Full-Stack Web Development
 - .NET Development with C#
