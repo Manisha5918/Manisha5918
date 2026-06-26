@@ -23,6 +23,9 @@ I enjoy learning how applications work, improving my problem-solving skills, and
 - AI-based Solutions
 - Continuous Learning
 
+![](https://komarev.com/ghpvc/?username=Manisha5918&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manisha5918)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Socials:
 
