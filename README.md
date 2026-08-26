@@ -19,11 +19,25 @@
 
 - B.Tech AI & Data Science @ Karpagam College of Engineering (CGPA 8.4)
 - Currently interning as a **.NET Developer** — building internal web apps with C# and ASP.NET MVC
-- Former **AI Intern @ Learnflu** — built a predictive maintenance system on 10K sensor records
+- Former **AI Intern @ Learnflu** — built a predictive maintenance system with 98% accuracy on 10K sensor records
 - Co-authored a **deep learning paper** on solar power forecasting published at ICEARS 2026
-- Currently deepening my skills in full-stack development and applied ML
+- Currently deepening my skills in full-stack development, applied ML, and DSA
+- Actively participating in hackathons — always looking for the next challenge to build under pressure
+- Interested in software development — from writing clean backend logic to building polished frontends
 - Ask me about React, Python, machine learning, or building end-to-end projects
+- Fun fact: I scored **99.6%** in my Higher Secondary board exams
 
+---
+
+## Achievements & Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
+  <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
+  <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
+ 
+  <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
+</p>
 
 ---
 
@@ -61,6 +75,19 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Software Development**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
