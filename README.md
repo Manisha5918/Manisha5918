@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Manisha 👋</h1>
+<h1 align="center">Hey, I'm Manisha </h1>
 
 <p align="center">
   AI & Data Science undergrad · .NET Developer Intern · Published ML researcher
@@ -15,29 +15,30 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-- 🎓 B.Tech AI & Data Science @ Karpagam College of Engineering (CGPA 8.4)
-- 💼 Currently interning as a **.NET Developer** — building internal web apps with C# and ASP.NET MVC
-- 🤖 Former **AI Intern @ Learnflu** — built a predictive maintenance system with 98% accuracy on 10K sensor records
-- 📄 Co-authored a **deep learning paper** on solar power forecasting published at ICEARS 2026
-- 🌱 Currently deepening my skills in full-stack development and applied ML
-- 💬 Ask me about React, Python, machine learning, or building end-to-end projects
-- ⚡ Fun fact: I scored **99.6%** in my Higher Secondary board exams
+- B.Tech AI & Data Science @ Karpagam College of Engineering (CGPA 8.4)
+- Currently interning as a **.NET Developer** — building internal web apps with C# and ASP.NET MVC
+- Former **AI Intern @ Learnflu** — built a predictive maintenance system with 98% accuracy on 10K sensor records
+- Co-authored a **deep learning paper** on solar power forecasting published at ICEARS 2026
+- Currently deepening my skills in full-stack development and applied ML
+- Ask me about React, Python, machine learning, or building end-to-end projects
+- Fun fact: I scored **99.6%** in my Higher Secondary board exams
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [🔧 Industrial Predictive Maintenance](https://github.com/Manisha5918/AI-Predictive-Maintenance-System) | React · FastAPI · Random Forest | 98% accuracy on AI4I 2020 dataset (10K records) |
-| [🌾 AI Crop Recommendation System](https://github.com/Manisha5918/AI-Based-Crop-Recommendation-System) | Python · 5 ML models · OpenWeatherMap API | 99%+ accuracy with auto best-model selection |
-| [🌍 Country Explorer](https://github.com/Manisha5918/Country-Explorer) | React · REST Countries API | 250+ nations, live weather, currency converter, travel planner |
+| [ Industrial Predictive Maintenance](https://github.com/Manisha5918/AI-Predictive-Maintenance-System) | React · FastAPI · Random Forest | 98% accuracy on AI4I 2020 dataset (10K records) |
+| [ AI Crop Recommendation System](https://github.com/Manisha5918/AI-Based-Crop-Recommendation-System) | Python · 5 ML models · OpenWeatherMap API | 99%+ accuracy with auto best-model selection |
+| [ EnergyShield](https://github.com/Manisha5918/energy-resilience-intelligence) | Next.js · React · Tailwind · JavaScript | Decision-support platform for India's oil & gas supply-chain resilience (OOSC-4 Hackathon) |
+| [ Smart Home Automation](https://github.com/Manisha5918/Smart-Home-Automation) | React · ASP.NET Core 9 · SignalR · Ollama (Gemma 3) | AI-powered home management with real-time device control and multilingual support |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -63,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manisha5918&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
@@ -76,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manisha5918&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4"/>
@@ -84,13 +85,13 @@
 
 ---
 
-### ✍️ Dev Quote of the Day
+### Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
 </p>
 
-### 🔝 Top Contributed Repos
+### Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Manisha5918&limit=5&theme=onedark&combine_all_yearly_contributions=true"/>
