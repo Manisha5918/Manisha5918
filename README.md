@@ -19,23 +19,11 @@
 
 - B.Tech AI & Data Science @ Karpagam College of Engineering (CGPA 8.4)
 - Currently interning as a **.NET Developer** — building internal web apps with C# and ASP.NET MVC
-- Former **AI Intern @ Learnflu** — built a predictive maintenance system with 98% accuracy on 10K sensor records
+- Former **AI Intern @ Learnflu** — built a predictive maintenance system on 10K sensor records
 - Co-authored a **deep learning paper** on solar power forecasting published at ICEARS 2026
 - Currently deepening my skills in full-stack development and applied ML
 - Ask me about React, Python, machine learning, or building end-to-end projects
-- Fun fact: I scored **99.6%** in my Higher Secondary board exams
 
----
-
-## Achievements & Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
-  <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
-  <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
-
-  <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
-</p>
 
 ---
 
