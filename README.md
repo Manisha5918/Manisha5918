@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Manisha </h1>
+<h1 align="center">Hey, I'm Manisha</h1>
 
 <p align="center">
   AI & Data Science undergrad · .NET Developer Intern · Published ML researcher
@@ -27,14 +27,26 @@
 
 ---
 
+## Achievements & Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
+  <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
+  <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
+  <img src="https://img.shields.io/badge/OOSC--4%20Hackathon-IIT%20Allahabad%20x%20GDG-informational?style=flat-square&color=d9814a"/>
+  <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
+</p>
+
+---
+
 ## Featured Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [ Industrial Predictive Maintenance](https://github.com/Manisha5918/AI-Predictive-Maintenance-System) | React · FastAPI · Random Forest | 98% accuracy on AI4I 2020 dataset (10K records) |
-| [ AI Crop Recommendation System](https://github.com/Manisha5918/AI-Based-Crop-Recommendation-System) | Python · 5 ML models · OpenWeatherMap API | 99%+ accuracy with auto best-model selection |
-| [ EnergyShield](https://github.com/Manisha5918/energy-resilience-intelligence) | Next.js · React · Tailwind · JavaScript | Decision-support platform for India's oil & gas supply-chain resilience (OOSC-4 Hackathon) |
-| [ Smart Home Automation](https://github.com/Manisha5918/Smart-Home-Automation) | React · ASP.NET Core 9 · SignalR · Ollama (Gemma 3) | AI-powered home management with real-time device control and multilingual support |
+| [Industrial Predictive Maintenance](https://github.com/Manisha5918/AI-Predictive-Maintenance-System) | React · FastAPI · Random Forest | 98% accuracy on AI4I 2020 dataset (10K records) |
+| [AI Crop Recommendation System](https://github.com/Manisha5918/AI-Based-Crop-Recommendation-System) | Python · 5 ML models · OpenWeatherMap API | 99%+ accuracy with auto best-model selection |
+| [EnergyShield](https://github.com/Manisha5918/energy-resilience-intelligence) | Next.js · React · Tailwind · JavaScript | Decision-support platform for India's oil & gas supply-chain resilience (OOSC-4 Hackathon) |
+| [Smart Home Automation](https://github.com/Manisha5918/Smart-Home-Automation) | React · ASP.NET Core 9 · SignalR · Ollama (Gemma 3) | AI-powered home management with real-time device control and multilingual support |
 
 ---
 
@@ -73,6 +85,26 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Manisha5918&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manisha5918&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manisha5918/Manisha5918/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manisha5918/Manisha5918/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Manisha5918/Manisha5918/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
