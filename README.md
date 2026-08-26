@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
   <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
   <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
-
+  <img src="https://img.shields.io/badge/OOSC--4%20Hackathon-IIT%20Allahabad%20x%20GDG-informational?style=flat-square&color=d9814a"/>
   <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
 </p>
 
@@ -108,5 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manisha5918&color=blue&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Manisha5918&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
 </p>
