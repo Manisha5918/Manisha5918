@@ -79,8 +79,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manisha5918&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha5918&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manisha5918&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha5918&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
