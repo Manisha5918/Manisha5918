@@ -9,7 +9,7 @@
   <a href="https://bsky.app/profile/manisha1810.bsky.social"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF"/></a>
   <a href="https://discord.com/users/manisha_g._78180"><img src="https://img.shields.io/badge/manisha__g._78180-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/manishhaa_hh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/profile.php?id=61583291825350"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61583291825350"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:manisharaj5918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -26,7 +26,7 @@
 - Interested in software development — from clean backend logic to polished frontends
 - Actively participating in hackathons — always looking for the next challenge to build under pressure
 - Ask me about React, Python, machine learning, or building end-to-end projects
-
+- Fun fact: I scored **99.6%** in my Higher Secondary board exams
 
 ---
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
   <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
   <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
- 
+
   <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
 </p>
 
@@ -87,11 +87,6 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manisha5918&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha5918&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Manisha5918&theme=dark&hide_border=true"/>
