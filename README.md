@@ -89,14 +89,6 @@
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://ghchart.romh.me/Manisha5918" alt="Manisha's GitHub chart"/>
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
@@ -109,27 +101,11 @@
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manisha5918&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4"/>
-</p>
-
----
-
 ### Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
 </p>
-
-### Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Manisha5918&limit=5&theme=onedark&combine_all_yearly_contributions=true"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manisha5918&color=blue&label=Profile+Views"/>
