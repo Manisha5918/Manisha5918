@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/manishagovind"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://bsky.app/profile/manisha1810.bsky.social"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF"/></a>
-  <a href="https://discord.gg/HuSuu95Wj"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/manisha_g._78180"><img src="https://img.shields.io/badge/manisha__g._78180-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/manishhaa_hh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://facebook.com/profile.php?id=61583291825350"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="mailto:manisharaj5918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
   <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
   <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
-  <img src="https://img.shields.io/badge/OOSC--4%20Hackathon-IIT%20Allahabad%20x%20GDG-informational?style=flat-square&color=d9814a"/>
+
   <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
 </p>
 
