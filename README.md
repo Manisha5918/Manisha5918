@@ -26,7 +26,7 @@
 - Interested in software development — from clean backend logic to polished frontends
 - Actively participating in hackathons — always looking for the next challenge to build under pressure
 - Ask me about React, Python, machine learning, or building end-to-end projects
-- Fun fact: I scored **99.6%** in my Higher Secondary board exams
+
 
 ---
 
