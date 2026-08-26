@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/ICEARS%202026-Published%20Author-informational?style=flat-square&color=4a90d9"/>
   <img src="https://img.shields.io/badge/NPTEL%20IoT-Elite%20%2B%20Top%205%25%20%7C%2088%25-informational?style=flat-square&color=2d9e6b"/>
   <img src="https://img.shields.io/badge/HSC%20Board-99.6%25-informational?style=flat-square&color=7b5ea7"/>
- 
+
   <img src="https://img.shields.io/badge/Learnflu%20AI%20Intern-98%25%20Model%20Accuracy-informational?style=flat-square&color=c0392b"/>
 </p>
 
@@ -92,7 +92,7 @@
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manisha5918&theme=github-compact&hide_border=true&area=true"/>
+  <img src="https://ghchart.romh.me/Manisha5918" alt="Manisha's GitHub chart"/>
 </p>
 
 ---
